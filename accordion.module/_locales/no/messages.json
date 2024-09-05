@@ -1,0 +1,312 @@
+{
+  "accordions.choice_field.choices.value 1" : {
+    "message" : "Label 1",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.choice_field.choices.value 2" : {
+    "message" : "Label 2",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.content.default" : {
+    "message" : "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.</p>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accordions.content.label" : {
+    "message" : "Innhold",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accordions.label" : {
+    "message" : "Trekkspill",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accordions.name" : {
+    "message" : "accordion",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.open_by_default.label" : {
+    "message" : "Åpen som standard",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accordions.title.default" : {
+    "message" : "Trekkspilltittel",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accordions.title.label" : {
+    "message" : "Tittel",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accordions.type.choices.med" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.type.choices.none" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.type.choices.rec" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.type.default" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.type.help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.type.inline_help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.type.label" : {
+    "message" : "Choice",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.type.placeholder" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "icon.choices.caret" : {
+    "message" : "Innsettingspunkt",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.choices.plus" : {
+    "message" : "Pluss",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.label" : {
+    "message" : "Ikon",
+    "description" : "",
+    "placeholders" : null
+  },
+  "name" : {
+    "message" : "accordion",
+    "description" : null,
+    "placeholders" : null
+  },
+  "styles.accordions.border.border.label" : {
+    "message" : "Kantlinje",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.border.label" : {
+    "message" : "Kantlinje",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.label" : {
+    "message" : "Trekkspill",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.presets.card_style.choices.dark" : {
+    "message" : "Mørk",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.presets.card_style.choices.light" : {
+    "message" : "Lys",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.presets.card_style.choices.plain" : {
+    "message" : "Vanlig",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.presets.card_style.label" : {
+    "message" : "Kortstil",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.presets.help_text" : {
+    "message" : "Bruk forhåndsinnstillinger for å raskt justere utseendet til det valgte elementet etter forhåndsdefinerte verdier.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.presets.label" : {
+    "message" : "Forhåndsinnstillinger",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.spacing.label" : {
+    "message" : "Avstand",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.spacing.space_between_accordions.label" : {
+    "message" : "Avstand mellom trekkspill",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.content.background.color.label" : {
+    "message" : "Farge",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.content.background.label" : {
+    "message" : "Bakgrunn",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.content.label" : {
+    "message" : "Innhold",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.content.spacing.label" : {
+    "message" : "Avstand",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.content.spacing.spacing.label" : {
+    "message" : "Avstand",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "Stiler",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.background.color.label" : {
+    "message" : "Farge",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.background.label" : {
+    "message" : "Bakgrunn",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.label" : {
+    "message" : "Tittel",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.spacing.label" : {
+    "message" : "Avstand",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.spacing.spacing.label" : {
+    "message" : "Avstand",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.font.label" : {
+    "message" : "Skrifttype",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.label" : {
+    "message" : "Tekst",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.transform.choices.capitalize" : {
+    "message" : "Kapitalisere",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.transform.choices.lowercase" : {
+    "message" : "Små bokstaver",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.transform.choices.none" : {
+    "message" : "Ingen",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.transform.choices.uppercase" : {
+    "message" : "Store bokstaver",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.transform.label" : {
+    "message" : "Transformer",
+    "description" : "",
+    "placeholders" : null
+  },
+  "sub_title_.default" : {
+    "message" : "Find the Best Commercial Grow Room Rebates & Incentives in Your State",
+    "description" : null,
+    "placeholders" : null
+  },
+  "sub_title_.help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "sub_title_.inline_help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "sub_title_.label" : {
+    "message" : "Title copy",
+    "description" : null,
+    "placeholders" : null
+  },
+  "sub_title_.placeholder" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "sub_title_.validation_regex" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "title.default" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "title.help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "title.inline_help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "title.label" : {
+    "message" : "Text",
+    "description" : null,
+    "placeholders" : null
+  },
+  "title.placeholder" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "title.validation_regex" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  }
+}

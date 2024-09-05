@@ -1,0 +1,312 @@
+{
+  "accordions.choice_field.choices.value 1" : {
+    "message" : "Label 1",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.choice_field.choices.value 2" : {
+    "message" : "Label 2",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.content.default" : {
+    "message" : "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.</p>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accordions.content.label" : {
+    "message" : "Kandungan",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accordions.label" : {
+    "message" : "Akordion",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accordions.name" : {
+    "message" : "accordion",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.open_by_default.label" : {
+    "message" : "Dibuka secara lalai",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accordions.title.default" : {
+    "message" : "Tajuk akordion",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accordions.title.label" : {
+    "message" : "Tajuk",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accordions.type.choices.med" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.type.choices.none" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.type.choices.rec" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.type.default" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.type.help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.type.inline_help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.type.label" : {
+    "message" : "Choice",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.type.placeholder" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "icon.choices.caret" : {
+    "message" : "Karet",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.choices.plus" : {
+    "message" : "Tambah",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.label" : {
+    "message" : "Ikon",
+    "description" : "",
+    "placeholders" : null
+  },
+  "name" : {
+    "message" : "accordion",
+    "description" : null,
+    "placeholders" : null
+  },
+  "styles.accordions.border.border.label" : {
+    "message" : "Sempadan",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.border.label" : {
+    "message" : "Sempadan",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.label" : {
+    "message" : "Akordion",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.presets.card_style.choices.dark" : {
+    "message" : "Gelap",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.presets.card_style.choices.light" : {
+    "message" : "Cerah",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.presets.card_style.choices.plain" : {
+    "message" : "Biasa",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.presets.card_style.label" : {
+    "message" : "Gaya kad",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.presets.help_text" : {
+    "message" : "Gunakan praset untuk melaraskan rupa item yang dipilih kepada nilai yang dipratakrif dengan cepat.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.presets.label" : {
+    "message" : "Praset",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.spacing.label" : {
+    "message" : "Jarak",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.spacing.space_between_accordions.label" : {
+    "message" : "Jarak antara akordion",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.content.background.color.label" : {
+    "message" : "Warna",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.content.background.label" : {
+    "message" : "Latar belakang",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.content.label" : {
+    "message" : "Kandungan",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.content.spacing.label" : {
+    "message" : "Jarak",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.content.spacing.spacing.label" : {
+    "message" : "Jarak",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "Gaya",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.background.color.label" : {
+    "message" : "Warna",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.background.label" : {
+    "message" : "Latar belakang",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.label" : {
+    "message" : "Tajuk",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.spacing.label" : {
+    "message" : "Jarak",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.spacing.spacing.label" : {
+    "message" : "Jarak",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.font.label" : {
+    "message" : "Fon",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.label" : {
+    "message" : "Teks",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.transform.choices.capitalize" : {
+    "message" : "Besarkan Huruf",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.transform.choices.lowercase" : {
+    "message" : "Huruf Kecil",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.transform.choices.none" : {
+    "message" : "Tiada",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.transform.choices.uppercase" : {
+    "message" : "Huruf besar",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.transform.label" : {
+    "message" : "Transformasi",
+    "description" : "",
+    "placeholders" : null
+  },
+  "sub_title_.default" : {
+    "message" : "Find the Best Commercial Grow Room Rebates & Incentives in Your State",
+    "description" : null,
+    "placeholders" : null
+  },
+  "sub_title_.help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "sub_title_.inline_help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "sub_title_.label" : {
+    "message" : "Title copy",
+    "description" : null,
+    "placeholders" : null
+  },
+  "sub_title_.placeholder" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "sub_title_.validation_regex" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "title.default" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "title.help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "title.inline_help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "title.label" : {
+    "message" : "Text",
+    "description" : null,
+    "placeholders" : null
+  },
+  "title.placeholder" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "title.validation_regex" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  }
+}

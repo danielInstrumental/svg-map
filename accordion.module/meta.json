@@ -1,0 +1,11 @@
+{
+  "global" : false,
+  "content_types" : [ "LANDING_PAGE", "SITE_PAGE", "BLOG_LISTING", "BLOG_POST" ],
+  "master_language" : "en",
+  "categories" : [ "design" ],
+  "icon" : "../../../growth-child/images/module-icons/down.svg",
+  "host_template_types" : [ "PAGE", "BLOG_LISTING", "BLOG_POST" ],
+  "module_id" : 172213916175,
+  "label" : "Accordion Map",
+  "is_available_for_new_content" : true
+}

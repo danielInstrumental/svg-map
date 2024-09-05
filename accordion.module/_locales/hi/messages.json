@@ -1,0 +1,312 @@
+{
+  "accordions.choice_field.choices.value 1" : {
+    "message" : "Label 1",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.choice_field.choices.value 2" : {
+    "message" : "Label 2",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.content.default" : {
+    "message" : "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit। Nullam tempor arcu non commodo elementum।</p>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accordions.content.label" : {
+    "message" : "कॉन्टेंट",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accordions.label" : {
+    "message" : "अकॉर्डियन",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accordions.name" : {
+    "message" : "accordion",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.open_by_default.label" : {
+    "message" : "डिफ़ॉल्ट रूप से खोलें",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accordions.title.default" : {
+    "message" : "अकॉर्डियन टाइटल",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accordions.title.label" : {
+    "message" : "टाइटल",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accordions.type.choices.med" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.type.choices.none" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.type.choices.rec" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.type.default" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.type.help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.type.inline_help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.type.label" : {
+    "message" : "Choice",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.type.placeholder" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "icon.choices.caret" : {
+    "message" : "कैरट",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.choices.plus" : {
+    "message" : "प्लस",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.label" : {
+    "message" : "आइकॉन",
+    "description" : "",
+    "placeholders" : null
+  },
+  "name" : {
+    "message" : "accordion",
+    "description" : null,
+    "placeholders" : null
+  },
+  "styles.accordions.border.border.label" : {
+    "message" : "बॉर्डर",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.border.label" : {
+    "message" : "बॉर्डर",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.label" : {
+    "message" : "अकॉर्डियन",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.presets.card_style.choices.dark" : {
+    "message" : "डार्क",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.presets.card_style.choices.light" : {
+    "message" : "लाइट",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.presets.card_style.choices.plain" : {
+    "message" : "प्लैन",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.presets.card_style.label" : {
+    "message" : "कार्ड स्टाइल",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.presets.help_text" : {
+    "message" : "चुने हुए आइटम की दिखावट को पूर्वनिर्धारित वैल्यू में त्वरित रूप से समायोजित करने के लिए प्रीसेट का उपयोग करें।",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.presets.label" : {
+    "message" : "प्रीसेट्स",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.spacing.label" : {
+    "message" : "स्पेसिंग",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.spacing.space_between_accordions.label" : {
+    "message" : "परिणामों के बीच का स्थान",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.content.background.color.label" : {
+    "message" : "कलर",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.content.background.label" : {
+    "message" : "बैकग्राउंड",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.content.label" : {
+    "message" : "कॉन्टेंट",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.content.spacing.label" : {
+    "message" : "स्पेसिंग",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.content.spacing.spacing.label" : {
+    "message" : "स्पेसिंग",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "स्टाइल",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.background.color.label" : {
+    "message" : "कलर",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.background.label" : {
+    "message" : "बैकग्राउंड",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.label" : {
+    "message" : "टाइटल",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.spacing.label" : {
+    "message" : "स्पेसिंग",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.spacing.spacing.label" : {
+    "message" : "स्पेसिंग",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.font.label" : {
+    "message" : "फ़ॉन्ट",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.label" : {
+    "message" : "टेक्स्ट",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.transform.choices.capitalize" : {
+    "message" : "कैपिटलाइज़",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.transform.choices.lowercase" : {
+    "message" : "लोअरकेस",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.transform.choices.none" : {
+    "message" : "कोई नहीं",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.transform.choices.uppercase" : {
+    "message" : "अपरकेस",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.transform.label" : {
+    "message" : "बदलाव करें",
+    "description" : "",
+    "placeholders" : null
+  },
+  "sub_title_.default" : {
+    "message" : "Find the Best Commercial Grow Room Rebates & Incentives in Your State",
+    "description" : null,
+    "placeholders" : null
+  },
+  "sub_title_.help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "sub_title_.inline_help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "sub_title_.label" : {
+    "message" : "Title copy",
+    "description" : null,
+    "placeholders" : null
+  },
+  "sub_title_.placeholder" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "sub_title_.validation_regex" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "title.default" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "title.help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "title.inline_help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "title.label" : {
+    "message" : "Text",
+    "description" : null,
+    "placeholders" : null
+  },
+  "title.placeholder" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "title.validation_regex" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  }
+}

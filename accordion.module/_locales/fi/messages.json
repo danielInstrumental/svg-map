@@ -1,0 +1,312 @@
+{
+  "accordions.choice_field.choices.value 1" : {
+    "message" : "Label 1",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.choice_field.choices.value 2" : {
+    "message" : "Label 2",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.content.default" : {
+    "message" : "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.</p>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accordions.content.label" : {
+    "message" : "Sisältö",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accordions.label" : {
+    "message" : "Haitarit",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accordions.name" : {
+    "message" : "accordion",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.open_by_default.label" : {
+    "message" : "Oletuksena auki",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accordions.title.default" : {
+    "message" : "Haitariotsikko",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accordions.title.label" : {
+    "message" : "Otsikko",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accordions.type.choices.med" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.type.choices.none" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.type.choices.rec" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.type.default" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.type.help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.type.inline_help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.type.label" : {
+    "message" : "Choice",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.type.placeholder" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "icon.choices.caret" : {
+    "message" : "Osoitin",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.choices.plus" : {
+    "message" : "Plus",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.label" : {
+    "message" : "Kuvake",
+    "description" : "",
+    "placeholders" : null
+  },
+  "name" : {
+    "message" : "accordion",
+    "description" : null,
+    "placeholders" : null
+  },
+  "styles.accordions.border.border.label" : {
+    "message" : "Raja",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.border.label" : {
+    "message" : "Raja",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.label" : {
+    "message" : "Haitarit",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.presets.card_style.choices.dark" : {
+    "message" : "Tumma",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.presets.card_style.choices.light" : {
+    "message" : "Kevyt",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.presets.card_style.choices.plain" : {
+    "message" : "Yksivärinen",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.presets.card_style.label" : {
+    "message" : "Kortin tyyli",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.presets.help_text" : {
+    "message" : "Käytä esiasetuksia säätääksesi nopeasti valitun kohteen ulkoasun ennalta määritettyihin arvoihin.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.presets.label" : {
+    "message" : "Esiasetukset",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.spacing.label" : {
+    "message" : "Välit",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.spacing.space_between_accordions.label" : {
+    "message" : "Väli haitarien välissä",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.content.background.color.label" : {
+    "message" : "Väri",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.content.background.label" : {
+    "message" : "Tausta",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.content.label" : {
+    "message" : "Sisältö",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.content.spacing.label" : {
+    "message" : "Välit",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.content.spacing.spacing.label" : {
+    "message" : "Välit",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "Tyylit",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.background.color.label" : {
+    "message" : "Väri",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.background.label" : {
+    "message" : "Tausta",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.label" : {
+    "message" : "Otsikko",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.spacing.label" : {
+    "message" : "Välit",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.spacing.spacing.label" : {
+    "message" : "Välit",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.font.label" : {
+    "message" : "Fontti",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.label" : {
+    "message" : "Teksti",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.transform.choices.capitalize" : {
+    "message" : "Vaihda isoihin kirjaimiin",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.transform.choices.lowercase" : {
+    "message" : "Pienet kirjaimet",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.transform.choices.none" : {
+    "message" : "Ei mitään",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.transform.choices.uppercase" : {
+    "message" : "Isot kirjaimet",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.transform.label" : {
+    "message" : "Muunna",
+    "description" : "",
+    "placeholders" : null
+  },
+  "sub_title_.default" : {
+    "message" : "Find the Best Commercial Grow Room Rebates & Incentives in Your State",
+    "description" : null,
+    "placeholders" : null
+  },
+  "sub_title_.help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "sub_title_.inline_help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "sub_title_.label" : {
+    "message" : "Title copy",
+    "description" : null,
+    "placeholders" : null
+  },
+  "sub_title_.placeholder" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "sub_title_.validation_regex" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "title.default" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "title.help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "title.inline_help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "title.label" : {
+    "message" : "Text",
+    "description" : null,
+    "placeholders" : null
+  },
+  "title.placeholder" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "title.validation_regex" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  }
+}

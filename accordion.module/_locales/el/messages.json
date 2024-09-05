@@ -1,0 +1,312 @@
+{
+  "accordions.choice_field.choices.value 1" : {
+    "message" : "Label 1",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.choice_field.choices.value 2" : {
+    "message" : "Label 2",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.content.default" : {
+    "message" : "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.</p>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accordions.content.label" : {
+    "message" : "Περιεχόμενο",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accordions.label" : {
+    "message" : "Ακορντεόν",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accordions.name" : {
+    "message" : "accordion",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.open_by_default.label" : {
+    "message" : "Άνοιγμα από προεπιλογή",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accordions.title.default" : {
+    "message" : "Τίτλος ακορντεόν",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accordions.title.label" : {
+    "message" : "Tίτλος",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accordions.type.choices.med" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.type.choices.none" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.type.choices.rec" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.type.default" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.type.help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.type.inline_help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.type.label" : {
+    "message" : "Choice",
+    "description" : null,
+    "placeholders" : null
+  },
+  "accordions.type.placeholder" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "icon.choices.caret" : {
+    "message" : "Καρέ",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.choices.plus" : {
+    "message" : "Συν",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.label" : {
+    "message" : "Εικονίδιο",
+    "description" : "",
+    "placeholders" : null
+  },
+  "name" : {
+    "message" : "accordion",
+    "description" : null,
+    "placeholders" : null
+  },
+  "styles.accordions.border.border.label" : {
+    "message" : "Περιθώριο",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.border.label" : {
+    "message" : "Περιθώριο",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.label" : {
+    "message" : "Ακορντεόν",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.presets.card_style.choices.dark" : {
+    "message" : "Σκοτεινό",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.presets.card_style.choices.light" : {
+    "message" : "Φωτεινό",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.presets.card_style.choices.plain" : {
+    "message" : "Απλό",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.presets.card_style.label" : {
+    "message" : "Στυλ κάρτας",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.presets.help_text" : {
+    "message" : "Χρησιμοποιήστε τις προεπιλογές για να προσαρμόσετε γρήγορα την εμφάνιση του επιλεγμένου στοιχείου σε προκαθορισμένες τιμές.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.presets.label" : {
+    "message" : "Προεπιλογές",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.spacing.label" : {
+    "message" : "Διάκενο",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.spacing.space_between_accordions.label" : {
+    "message" : "Διάστημα μεταξύ ακορντεόν",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.content.background.color.label" : {
+    "message" : "Χρώμα",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.content.background.label" : {
+    "message" : "Φόντο",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.content.label" : {
+    "message" : "Περιεχόμενο",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.content.spacing.label" : {
+    "message" : "Διάκενο",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.content.spacing.spacing.label" : {
+    "message" : "Διάκενο",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "Στυλ",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.background.color.label" : {
+    "message" : "Χρώμα",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.background.label" : {
+    "message" : "Φόντο",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.label" : {
+    "message" : "Tίτλος",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.spacing.label" : {
+    "message" : "Διάκενο",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.spacing.spacing.label" : {
+    "message" : "Διάκενο",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.font.label" : {
+    "message" : "Γραμματοσειρά",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.label" : {
+    "message" : "Κείμενο",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.transform.choices.capitalize" : {
+    "message" : "Μετατροπή σε κεφαλαία",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.transform.choices.lowercase" : {
+    "message" : "Πεζά",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.transform.choices.none" : {
+    "message" : "Κανένα",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.transform.choices.uppercase" : {
+    "message" : "Κεφαλαία",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.transform.label" : {
+    "message" : "Μετασχηματισμός",
+    "description" : "",
+    "placeholders" : null
+  },
+  "sub_title_.default" : {
+    "message" : "Find the Best Commercial Grow Room Rebates & Incentives in Your State",
+    "description" : null,
+    "placeholders" : null
+  },
+  "sub_title_.help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "sub_title_.inline_help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "sub_title_.label" : {
+    "message" : "Title copy",
+    "description" : null,
+    "placeholders" : null
+  },
+  "sub_title_.placeholder" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "sub_title_.validation_regex" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "title.default" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "title.help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "title.inline_help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "title.label" : {
+    "message" : "Text",
+    "description" : null,
+    "placeholders" : null
+  },
+  "title.placeholder" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "title.validation_regex" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  }
+}
